@@ -42,6 +42,6 @@
 ---
 
 ## 👀 Profile Views  
-[![Profile Views](https://komarev.com/ghpvc/?username=milendrakumarbaghel&color=blue&style=flat)]
+![Profile Views](https://komarev.com/ghpvc/?username=milendrakumarbaghel&color=blue&style=flat)
 
 ---
