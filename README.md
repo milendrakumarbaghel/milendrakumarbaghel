@@ -1,9 +1,7 @@
 # 💫 Milendra Kumar Baghel  
 
 ## 🌐 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/milendrabaghel)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milendra-kumar-baghel)  
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/milendrabaghel)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/milendrabaghel)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milendra-kumar-baghel)  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/milendrabaghel)  
 
 ---
 
@@ -44,6 +42,6 @@
 ---
 
 ## 👀 Profile Views  
-[![Profile Views](https://visitcount.itsvg.in/api?id=milendrakumarbaghel&icon=5&color=2)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=milendrakumarbaghel&color=blue&style=flat)]
 
 ---
