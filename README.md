@@ -10,7 +10,7 @@
 
 ## 📌 About Me  
 
-- 🎓 Pursuing **MCA @ MANIT Bhopal (2023–2026)**  
+- 🎓 **MCA @ MANIT Bhopal (2023–2026)**  
 - 💻 Passionate about **Full-Stack Development, System Design, and Scalable Applications**  
 - 🚀 Experienced in building modern web platforms with **React, Node.js, TypeScript, and PostgreSQL**  
 - 🧩 Strong interest in **Web Security, Cloud Computing, and DevOps**  
